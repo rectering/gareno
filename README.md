@@ -1,3 +1,3 @@
 <h1>Courses Application UI</h1>
 
-![010101000](https://github.com/rectering/gareno/assets/124407245/5357a568-2a8f-4813-a702-e21f682547f5)
+![gareno](https://github.com/rectering/gareno/assets/124407245/57fb700d-d001-4dc4-9ac3-a99310d5879d)
